@@ -13,14 +13,11 @@ In this course, you'll learn:
 ## Repository Structure
 
 - **notebooks/**: Jupyter notebooks for step-by-step learning.
-- **scripts/**: Python scripts for practical demonstrations of decision tree algorithms.
+- **scripts/**: Python scripts for practical demonstrations of decision tree classifier algorithms.
 - **data/**: Sample datasets for building and testing decision tree models.
-- **tests/**: Unit tests to validate the decision tree code.
 - **images/**: Visuals and example plots generated throughout the course.
 
-## Requirements
+## Additional Resources
+- **Notes/**: Notes or Sheet Cheats for additional topics not covered or lightly covered in the video.
 
-To get started with the course, make sure you have the necessary packages installed. You can install them with:
 
-```bash
-pip install -r requirements.txt
