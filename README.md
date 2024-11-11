@@ -18,6 +18,6 @@ In this course, you'll learn:
 - **images/**: Visuals and example plots generated throughout the course.
 
 ## Additional Resources
-- **Notes/**: Notes or Sheet Cheats for additional topics not covered or lightly covered in the video.
+- **notes/**: Documents with additional explanations and topics not covered or lightly covered in the video.
 
 
